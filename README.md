@@ -8,4 +8,4 @@ Visit - `https://www.lucidchart.com/invitations/accept/d3d5e6ee-cc9f-4a24-b6ad-d
 3. Double Click `LucidChart-CSV-Reader.exe`
 4. Done
 
-All data is outputted to `file.csv`
+All data is outputted to `/bin/file.csv`
