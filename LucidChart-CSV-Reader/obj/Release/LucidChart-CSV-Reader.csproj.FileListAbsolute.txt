@@ -1,0 +1,12 @@
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\LucidChart-CSV-Reader.exe.config
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\LucidChart-CSV-Reader.exe
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\LucidChart-CSV-Reader.pdb
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\CsvHelper.dll
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\System.ValueTuple.dll
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\CsvHelper.xml
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Release\System.ValueTuple.xml
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\obj\Release\LucidChart-CSV-Reader.csprojAssemblyReference.cache
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\obj\Release\LucidChart-CSV-Reader.csproj.CoreCompileInputs.cache
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\obj\Release\LucidChart-CSV-Reader.csproj.CopyComplete
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\obj\Release\LucidChart-CSV-Reader.exe
+C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\obj\Release\LucidChart-CSV-Reader.pdb
