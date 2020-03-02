@@ -36,11 +36,12 @@ namespace LucidChart_CSV_Reader
                 for (int i = 0; i < lucidForm.Count; i++) //Scan through lucid CSV form items
                 {
 
-                    if (lucidForm[i].Name == "Swim Lane")//Get devices
+                    if (lucidForm[i].Name == "Swim Lane")   //Get devices
                     {
                         deviceList.Add(new DevicesSchema());
                         deviceList[deviceCounter].ID = lucidForm[i].Id;
                         deviceList[deviceCounter].Name = lucidForm[i].TextArea1;
+                        deviceList[deviceCounter].Location = lucidForm[i].location;
 
                         string thisName = deviceList[deviceCounter].Name;
                         string thisId = deviceList[deviceCounter].ID;
@@ -76,6 +77,7 @@ namespace LucidChart_CSV_Reader
                         {
                             //Add connector to device
                             Console.WriteLine("Adding Port to {0}", deviceList[deviceIndex].Name);
+                            deviceList[deviceIndex].Connectors.Add(new ConnectorSchema(Type: thisConnector, ID: lucidForm[i].Id, Name: lucidForm[i].TextArea1));
                             deviceList[deviceIndex].Connectors.Add(new ConnectorSchema(Type: thisConnector, ID: lucidForm[i].Id, Name: lucidForm[i].TextArea1));
                         }
                         else
@@ -124,6 +126,9 @@ namespace LucidChart_CSV_Reader
                             cableSchedule.Cable[cableCounter].Start = thisDevice.Name;
                             Console.WriteLine("START: {0}",deviceList[deviceIndex].Name);
 
+                            cableSchedule.Cable[cableCounter].StartLocation = thisDevice.Location;
+                            Console.WriteLine("LOCATION: {0}", deviceList[deviceIndex].Location);
+
                             int connecterIndex = thisDevice.Connectors.FindIndex(obj => obj.id == lineStart.ToString());
                             cableSchedule.Cable[cableCounter].StartConectorName = thisDevice.Connectors[connecterIndex].Name;
                             Console.WriteLine("START CONNECTOR NAME: {0} ", thisDevice.Connectors[connecterIndex].Name);
@@ -160,6 +165,9 @@ namespace LucidChart_CSV_Reader
 
                             cableSchedule.Cable[cableCounter].End = thisDevice.Name;
                             Console.WriteLine("END: {0}", deviceList[deviceIndex].Name);
+
+                            cableSchedule.Cable[cableCounter].EndLocation = thisDevice.Location;
+                            Console.WriteLine("LOCATION: {0}", deviceList[deviceIndex].Location);
 
                             int connecterIndex = thisDevice.Connectors.FindIndex(obj => obj.id == lineEnd.ToString());
                             cableSchedule.Cable[cableCounter].EndConnectorName = thisDevice.Connectors[connecterIndex].Name;

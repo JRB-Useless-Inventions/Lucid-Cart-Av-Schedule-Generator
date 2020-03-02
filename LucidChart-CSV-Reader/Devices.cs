@@ -8,7 +8,7 @@ namespace Devices
 {
     class DevicesSchema
     {
-        public String Name, ID;
+        public String Name, ID, Location;
         public List<ConnectorSchema> Connectors = new List<ConnectorSchema>();
     }
 

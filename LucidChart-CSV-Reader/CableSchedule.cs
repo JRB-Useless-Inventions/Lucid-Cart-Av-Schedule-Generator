@@ -14,6 +14,7 @@ namespace CableSchedule
         public String LineSource { get; set; }
         public String LineDestination { get; set; }
         public String connector { get; set; }
+        public String location  { get; set; }
         public String TextArea1 { get; set; }
 
 

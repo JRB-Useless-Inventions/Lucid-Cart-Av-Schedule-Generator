@@ -10,3 +10,14 @@ C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-
 C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Debug\CsvHelper.xml
 C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\bin\Debug\System.ValueTuple.xml
 C:\Users\Jack.Biles\Documents\GitHub\JackBiles\LucidChart-CSV-Reader\LucidChart-CSV-Reader\obj\Debug\LucidChart-CSV-Reader.csproj.CopyComplete
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\LucidChart-CSV-Reader.exe.config
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\LucidChart-CSV-Reader.exe
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\LucidChart-CSV-Reader.pdb
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\CsvHelper.dll
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\System.ValueTuple.dll
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\CsvHelper.xml
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\bin\Debug\System.ValueTuple.xml
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\obj\Debug\LucidChart-CSV-Reader.csprojAssemblyReference.cache
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\obj\Debug\LucidChart-CSV-Reader.csproj.CopyComplete
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\obj\Debug\LucidChart-CSV-Reader.exe
+F:\libs\Lucid-Cart-Av-Schedule-Generator\LucidChart-CSV-Reader\obj\Debug\LucidChart-CSV-Reader.pdb
